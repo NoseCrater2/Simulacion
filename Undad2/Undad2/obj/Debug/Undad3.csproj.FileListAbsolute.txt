@@ -1,0 +1,9 @@
+c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\bin\Debug\Undad2.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\bin\Debug\Undad2.exe
+c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\bin\Debug\Undad2.pdb
+c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Undad3.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Undad2.Form1.resources
+c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Undad2.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Undad3.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Undad2.exe
+c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Undad2.pdb
