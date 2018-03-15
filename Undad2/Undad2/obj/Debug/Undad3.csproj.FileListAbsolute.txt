@@ -7,3 +7,12 @@ c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Und
 c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Undad3.csproj.GenerateResource.Cache
 c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Undad2.exe
 c:\users\angel\documents\visual studio 2015\Projects\Undad2\Undad2\obj\Debug\Undad2.pdb
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\bin\Debug\Undad2.exe.config
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad2.exe
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad2.pdb
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\bin\Debug\Undad2.exe
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\bin\Debug\Undad2.pdb
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad3.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad2.Form1.resources
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad2.Properties.Resources.resources
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad3.csproj.GenerateResource.Cache

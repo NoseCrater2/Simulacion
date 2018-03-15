@@ -21,5 +21,29 @@ namespace Undad2
         {
 
         }
+
+       
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            
+           
+        }
+
+        private void btn1_Click(object sender, EventArgs e)
+        {
+            
+            //tablaUniforme.Update();
+            int a = Convert.ToInt32(txtA.Text);
+            int b = Convert.ToInt32(txtB.Text);
+            for (int i = 1;i<=Convert.ToInt32(txtMedicion.Text);i++)
+            {
+              
+                double random = new General().aleatorio(); 
+              tablaUniforme.Rows.Add(i,random,a+(b-a)*random);
+            }
+            
+        }
     }
 }
