@@ -11,16 +11,6 @@ namespace Undad2
     {
 
 
-        public Double aleatorio()
-        {
-
-            Random num = new Random();
-            Random dec = new Random();
-            string cadena = num.Next(0, 0).ToString() + "." + dec.Next(0, 99).ToString();
-            double final = Convert.ToDouble(cadena);
-
-            
-            return final;
-        }
+    
     }
 }
