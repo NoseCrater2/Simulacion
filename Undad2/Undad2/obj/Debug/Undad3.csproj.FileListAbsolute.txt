@@ -16,3 +16,4 @@ C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad3.csproj
 C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad2.Form1.resources
 C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad2.Properties.Resources.resources
 C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad3.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\GitHub\Simulacion\Undad2\Undad2\obj\Debug\Undad2.Form2.resources
